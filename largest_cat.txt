@@ -1,0 +1,28 @@
+Name, , Diameter
+ Pluto, , 2377 km
+ Eris, , 2326 km
+ Haumea, , 1600 km
+ 2007 OR10, , 1540 km
+2013 FY27, , 1100 km?
+ Quaoar, , 1070 km
+ Sedna, , 1000 km
+ 2002 MS4, , 930 km
+ Orcus, , 910 km
+ Salacia, , 850 km
+2015 RR245, , 810 km?
+2014 EZ51, , 810 km?
+2010 RF43, , 810 km?
+ 2003 AZ84, , 770 km
+ 2002 AW197, , 770 km
+ 2003 OP32, , 740 km?
+2015 KH162, , 740 km?
+ Varda, , 720 km
+2014 WK509, , 700 km?
+2012 VP113, , 700 km?
+2010 KZ39, , 700 km?
+ 2005 RR43, , 700 km?
+2010 JO179, , 700 km?
+ 1995 SM55, , 700 km
+ 2004 GV9, , 680 km
+ 2005 RN43, , 680 km
+ Varuna, , 680 km
